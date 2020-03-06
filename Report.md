@@ -40,4 +40,4 @@ Team Number: F1
 
 9. Screenshot of your Blynk App:
 
-    ![your image here->](img/placeholder.png)
+    ![your image here->](img/AppScreenshot.png)
